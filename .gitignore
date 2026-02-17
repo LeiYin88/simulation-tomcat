@@ -1,4 +1,4 @@
-.lemminx/*
-.vscode/*
-lib/*
+.lemminx/
+.vscode/
+lib/
 target/
